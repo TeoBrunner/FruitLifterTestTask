@@ -28,7 +28,7 @@ The project demonstrates:
 *Note: No PC controls are implemented—this is a mobile-first experience.*
 🛠️ Tech Stack
 
-![Unity](https://img.shields.io/badge/Unity-6.3+-black?style=flat&logo=unity)
+![Unity](https://img.shields.io/badge/Unity-2022.3+-black?style=flat&logo=unity)
 ![Zenject](https://img.shields.io/badge/DI-Zenject-blue)
 ![Platform](https://img.shields.io/badge/Platform-WebGL%20%7C%20Mobile-green)
 
@@ -59,7 +59,7 @@ The project demonstrates:
 
 ## 🚀 Installation & Running
 - Clone the repository
-- Open in Unity 6.3+
+- Open in Unity 2022.3+
 - Open the main scene (Assets/Project/Scenes/MainScene.unity)
 - Ensure Zenject project context is set up (usually auto-generated)
 - Press Play – Use Unity Remote or build to mobile for best experience.
