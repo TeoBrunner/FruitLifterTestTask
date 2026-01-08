@@ -32,7 +32,7 @@ The project demonstrates:
 ![Zenject](https://img.shields.io/badge/DI-Zenject-blue)
 ![Platform](https://img.shields.io/badge/Platform-WebGL%20%7C%20Mobile-green)
 
-- Unity 6.3+ – Game engine
+- Unity 2022.3+ – Game engine
 - Zenject – Dependency injection framework
 - Unity UI & EventSystem – Touch input handling
 
