@@ -6,7 +6,7 @@ https://github.com/user-attachments/assets/28179d85-a393-4870-b4d2-7c0f19ff0981
 **A mobile-first, physics-based interaction demo built in Unity for a technical test.**
 Completed in 8 hours with a focus on smooth mobile controls, clean architecture, and satisfying physical interactions.
 
-![Play](https://img.shields.io/badge/Play-Itch.io-orange)
+[![Play](https://img.shields.io/badge/Play-Itch.io-orange)](https://teobrunner.itch.io/fruit-lifter)
 
 ## 🎮 Overview
 **Fruit Lifter is a first-person mobile interaction prototype where you can walk around, pick up objects, examine them, and throw them with realistic physics.**
